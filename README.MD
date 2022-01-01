@@ -17,3 +17,6 @@ Ez egy nagyon fontos üzenet.
 
 -- feature-dokumentacio
 A dokumentáció tovább fejlesztve a feature-dokumentacio branchen
+
+-- Issue (#4)
+Itt van az új sor.
