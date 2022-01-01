@@ -7,3 +7,6 @@ Az account-sample.js fájlt a működéshez át kell nevezni account.js-re, és 
 Ezzel az Issues 1 is kész.
 
 Tévedtem, ez a 2-es számú issue:)
+
+
+Ez egy nagyon fontos üzenet.
