@@ -10,3 +10,5 @@ Tévedtem, ez a 2-es számú issue:)
 
 
 Ez egy nagyon fontos üzenet.
+
+Üzenet a github (távoli) repo-ban
