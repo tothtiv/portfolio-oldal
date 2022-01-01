@@ -12,3 +12,4 @@ Tévedtem, ez a 2-es számú issue:)
 Ez egy nagyon fontos üzenet.
 
 Üzenet a github (távoli) repo-ban
+Újabb üzenet a git (lokal) repo-ban
