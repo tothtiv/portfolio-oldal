@@ -13,3 +13,7 @@ Ez egy nagyon fontos üzenet.
 
 Üzenet a github (távoli) repo-ban
 Újabb üzenet a git (lokal) repo-ban
+
+
+-- feature-dokumentacio
+A dokumentáció tovább fejlesztve a feature-dokumentacio branchen
